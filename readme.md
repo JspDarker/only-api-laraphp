@@ -15,4 +15,6 @@ $table->unsignedTinyInteger('age'); #max value 255
 // echo date('Y-m-d');
 // echo time(); // --> 1548082392
 // echo date('Y-m-d H:i:s', '1548082392'); -> 2019-01-21 09:53:12
+
+https://laravel-json-api.readthedocs.io/en/latest/basics/validators/
 ```
